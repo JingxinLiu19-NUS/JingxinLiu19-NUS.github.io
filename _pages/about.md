@@ -62,7 +62,7 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表，他积极地为本科生和硕士生推荐就业深造的单位. 
 - *2024.04*: &nbsp;🎉🎉 刘京昕参加重庆数学学会2024年学术年会并作报告. 
 - *2023.08*: &nbsp;🎉🎉 刘京昕入职重庆科技大学，他欢迎本科生提前参与科研，培养学术热情. 
-- *2023.05*: &nbsp;🎉🎉 刘京昕结束在新加坡国立大学的学习任务，他对林云教授和Jin-Song Dong的指导表示非常感激. 
+- *2023.05*: &nbsp;🎉🎉 刘京昕结束在新加坡国立大学的学习任务，他对林云教授和Jin-Song Dong教授的培养表示非常感激. 
 
 # 📝 Selected Publications 
 1. **Jingxin Liu**, Shuwen Liu, Yingxu Wang, Jun Peng, Xiaofeng Liao, Chunhong Du, Hangjun Che, Jin-Song Dong. Generalized-Hukuhara subgradient-based neurodynamic approach to nonsmooth constrained distributed interval-valued optimization. IEEE Transactions on Artificial Intelligence, Available Online, doi: 10.1109/TAI.2026.3675069, Regular Paper.
@@ -74,7 +74,7 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 6. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong. A recurrent neural network approach for constrained distributed fuzzy convex optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(7): 9743-9757, 2024, Regular Paper. 
 7. **Jingxin Liu**, Xiaofeng Liao. A projection neural network to nonsmooth constrained pseudoconvex optimization. IEEE Transactions on Neural Networks and Learning Systems, 34(4): 2001-2015, 2023, Regular Paper. 
 8. Zhiqiang Liu, **Jingxin Liu**. Characterizations for union and intersection on non-normal membership functions of type-2 fuzzy sets. International Journal of Approximate Reasoning, 181: 109414, 2025, Regular Paper.
-9. Xuanrui Yu, Tianyu Hu, Nima Khodadadi, Jingxin Liu, Nanni Antonio. Predictive and experimental assessment of chloride ion permeation in concrete subjected to multi-factorial conditions using the XGBoost algorithm. Journal of Building Engineering, 98: 111041, 2024, Regular Paper. 
+9. Xuanrui Yu, Tianyu Hu, Nima Khodadadi, **Jingxin Liu**, Nanni Antonio. Predictive and experimental assessment of chloride ion permeation in concrete subjected to multi-factorial conditions using the XGBoost algorithm. Journal of Building Engineering, 98: 111041, 2024, Regular Paper. 
 10. Pengfei Zhang, Qinli Zhang, **Jingxin Liu**, Dexian Wang, Hua Ye, Xiabing Zhang, Tianrui Li. Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors. Information Sciences, 718: 122408, 2025, Regular Paper.
 
 
