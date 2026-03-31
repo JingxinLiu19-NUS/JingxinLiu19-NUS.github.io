@@ -18,27 +18,40 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is an Assistant Professor in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. He previously served as a Postdoctoral Fellow in the same department. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+Dr. Jingxin Liu is currently with the School of Mathematics and Physics Sciences, 
+Chongqing Research Institute of Intelligent Mathematics and Autonomous AI (RI-IM•AI*), 
+Chongqing University of Science and Technology (CQUST). 
+Before joining CQUST, 
+he received a Ph.D. degree from the School of Electronic and Information Engineering, Southwest University, 
+supervised by Prof. [Xiaofeng Liao (IEEE/AIAA Fellow)](https://cs.cqu.edu.cn/info/1274/3457.htm) 
+and co-supervised by Prof. [Huaqing Li (IEEE Senior Member, IET Fellow)](https://ceie.swu.edu.cn/info/1114/3986.htm). 
+He was a joint training Ph.D. student with the School of Computing, National University of Singapore, 
+co-supervised by Prof. [Jin-Song Dong (Engineers Australia Fellow)](https://www.comp.nus.edu.sg/~dongjs/). 
+He was the recipient of the Outstanding Ph.D. Thesis Award, Chongqing. 
+His research interests encompass a wide range of areas, focusing on machine learning, neural networks, neurodynamic optimization, and game. 
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, NeurIPS, AAAI, IJCAI, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/). He also serves as the reviewer for 40+ prestigious journals and 25+ top conferences. 
+Dr. Liu has actively published in prestigious conferences and journals in machine learning, 
+including TNNLS, TSMC, TETCI, TAI, Neural Networks, and Information Sciences. 
 
-For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
+For anything about the research, resources and other related issues, 
+please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gmail.com); [jingxin_liu127@cqust.edu.cn](jingxin_liu127@cqust.edu.cn)). 
+
 
 
 # 📖 Educations
 
-- *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
-  - Computer Science and Technology, School of Computer Science and Engineering
-- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
-  - Computer Science and Technology, School of Computer Science and Technology
-- *2023.08 - 2025.12*, The Hong Kong Polytechnic University, Postdoctoral Research Fellow.
-  - Department of Data Science and Artificial Intelligence, Faculty of Computer and Mathematical Sciences
-
+##- *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
+##  - Computer Science and Technology, School of Computer Science and Engineering
+- *2019.09 - 2023.06*, Southwest University, Ph.D.
+  - Computer Science and Technology, School of Electronic and Information Engineering
+- *2021.05 - 2023.05*, National University of Singapore, Joint Training Ph.D. 
+  - Department of Computer Science,  School of Computing
+    
 # 💻 Research
 
-- Automated Machine Learning
-- Causality-based Machine Learning
-- Large Foundation Model
+- Machine Learning
+- Neural Networks
+- Neurodynamic Optimization
 
 
 <!-- # 🔥 News
