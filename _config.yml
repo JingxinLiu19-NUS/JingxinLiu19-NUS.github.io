@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Xingyu's Homepage"
+title                    : "Welcome to Jingxin Liu's Homepage"
 description              : "Machine Learning"
-repository               : "wuxingyu-ai/wuxingyu-ai.github.io"
+repository               : "JingxinLiu19-NUS/JingxinLiu19-NUS.github.io
+
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xingyu Wu 吴兴宇"
-  avatar           : "images/Xingyu_Wu_photo.png" # "images/android-chrome-512x512.png"
-  bio              : "Assistant Professor, PolyU"
-  location         : "Hong Kong SAR"
-  employer         :
+  name             : "Jingxin Liu 刘京昕"
+  avatar           : "AcademicAvatar.png" # "images/android-chrome-512x512.png"
+  bio              : "Assistant Professor, CQUST"
+  location         : "Chongqing, China"
+  employer         : "RI-IM·AI*, CQUST"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=E10XSzEAAAAJ"
-  email            : "xingy.wu@polyu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=nbW7j04AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "liujx217@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wuxingyu-ai" # e.g., "github username"
+  github           : "JingxinLiu19-NUS" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
