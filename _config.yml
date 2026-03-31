@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Welcome to Jingxin Liu's Homepage"
 description              : "Machine Learning"
-url                      : "https://JingxinLiu19-NUS.github.io"
-repository               : "JingxinLiu19-NUS/JingxinLiu19-NUS.github.io
+url                      : https://JingxinLiu19-NUS.github.io
+repository               : "JingxinLiu19-NUS/JingxinLiu19-NUS.github.io"
 
 google_scholar_stats_use_cdn : true
 
