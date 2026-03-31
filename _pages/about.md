@@ -80,7 +80,9 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 
 # 🎖 Honors and Awards
 - Outstanding Ph.D. Thesis Award, Chongqing, Dec 2024 (Top 1%). 
-- 
+- Science and Technology Award of China Communications and Transportation Association, Dec 2024. 
+
+<!-- # 
 - First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
 - Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
 - CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
@@ -93,23 +95,28 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - Intel Scholarship, Intel, Dec 2022
 - Huawei Scholarship, Huawei, Dec 2020, Dec 2022
 - Outstanding Graduate Award of USTC, USTC, Jun 2023
+-->
+
 
 
 # ⏳ Professional Services
 
+<!-- 
 #### Organization Services
 - Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on **LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems** ([Link](https://cis.taskforce.ieee.org/gpais/))
 - Co-Chair (with Prof. Isaac Triguero, Prof. Daniel Molina, Prof. Javier del Ser), IEEE Conference on Artificial Intelligence (CAI) 2026 Workshop on General-Purpose Artificial Intelligent Systems, May. 8 - 10, Granada, Spain, 2026. ([Link](https://sites.google.com/view/gpais-cai-2026))
 - Co-organizer (with Prof. Yuejiao Gong, Prof. Liang Feng, Prof. Kay Chen Tan), IEEE World Congress on Computational Intelligence (WCCI) 2026 Special Session, Evolutionary Computation Meets Large Language Models: Foundations, Synergies, and Emerging Paradigms, Jun. 21-26, Netherlands, 2026. ([Link](https://wuxingyu-ai.github.io/LLM4EC/))
 - Co-organizer (with Prof. Morteza Moradi, Prof. Mohammad H. Moradi, Prof. Filipe Alexandre de Sousa Pereira, Prof. Hamed Rezazadegan Tavakoli, Prof. Jérôme Mendes), IEEE World Congress on Computational Intelligence (WCCI) 2026 Workshop, Intelligent Applications for Industrial Systems (IAIS): The Role of AI-Based Methods, Jun. 21-26, Netherlands, 2026.
 - Session Chair, 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025), Oct. 31 - Nov. 2, Xiamen, China, 2025
+-->
+
 
 <!--
 #### Journal Associate/Guest Editors
 - Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026
 -->
 
-#### Area Chair (AC)
+#### Special Session Chair (SSC)
 - The 9th International Conference on Big Data and Artificial Intelligence (BDAI 2026)
 - The 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
 - The 4th International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025)
@@ -179,7 +186,7 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - Knowledge-Based Systems (KNOSYS, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Applied Soft Computing (ASOC, Elsevier)
-<!--
+<!-- #
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE Transactions on Services Computing (TSC, IEEE)
 - IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
