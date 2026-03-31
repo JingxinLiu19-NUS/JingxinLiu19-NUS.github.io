@@ -40,8 +40,8 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 
 # 📖 Educations
 
-##- *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
-##  - Computer Science and Technology, School of Computer Science and Engineering
+#*2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
+#Computer Science and Technology, School of Computer Science and Engineering
 - *2019.09 - 2023.06*, Southwest University, Ph.D.
   - Computer Science and Technology, School of Electronic and Information Engineering
 - *2021.05 - 2023.05*, National University of Singapore, Joint Training Ph.D. 
