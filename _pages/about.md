@@ -62,19 +62,16 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Selected Publications 
-1.
-2. Zhiqiang Liu, Jingxin Liu. Characterizations for union and intersection on non-normal
-membership functions of type-2 fuzzy sets. International Journal of Approximate Reasoning,
-181: 109414, 2025, Full Length Article. 
+1. **Jingxin Liu**, Shuwen Liu, Yingxu Wang, Jun Peng, Xiaofeng Liao, Chunhong Du, Hangjun Che, Jin-Song Dong. Generalized-Hukuhara subgradient-based neurodynamic approach to nonsmooth constrained distributed interval-valued optimization. IEEE Transactions on Artificial Intelligence, Available Online, doi: 10.1109/TAI.2026.3675069, Regular Paper.
 <!--2. Xuanrui Yu, Tianyu Hu, Nima Khodadadi, **Jingxin Liu**, Nanni Antonio. Predictive and experimental assessment of chloride ion permeation in concrete subjected to multi-factorial conditions using the XGBoost algorithm. Journal of Building Engineering, 98: 111041, 2024, Regular Paper. -->
-3. Pengfei Zhang, Qinli Zhang, **Jingxin Liu**, Dexian Wang, Hua Ye, Xiabing Zhang, Tianrui Li. Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors. Information Sciences, 718: 122408, 2025, Regular Paper.
-4. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, and Amin Mansoori. Continuous-time distributed generalized Nash equilibrium seeking in nonsmooth fuzzy aggregative games. IEEE Transactions on Control of Network Systems, 11(3): 1262-1274, 2024, Regular Paper. 
-5. **Jingxin Liu**, Xiaofeng Liao, and Jin-Song Dong. A quaternion-valued neural network approach to nonsmooth nonconvex constrained optimization in quaternion domain. IEEE Transactions on Emerging Topics in Computational Intelligence, 8(1): 654-669, 2024, Regular Paper. 
-6. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A neurodynamic approach for nonsmooth optimal power consumption of intelligent and connected vehicles. Neural Networks, 161: 693-707, 2023, Regular Paper. 
-7. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A subgradient-based neurodynamic algorithm to constrained nonsmooth nonconvex interval-valued optimization. Neural Networks, 160: 259-273, 2023, Regular Paper. 
-8. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong. A recurrent neural network approach for constrained distributed fuzzy convex optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(7): 9743-9757, 2024, Regular Paper. 
-9. **Jingxin Liu**, Xiaofeng Liao. A projection neural network to nonsmooth constrained pseudoconvex optimization. IEEE Transactions on Neural Networks and Learning Systems, 34(4): 2001-2015, 2023, Regular Paper.
-10. 
+2. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, and Amin Mansoori. Continuous-time distributed generalized Nash equilibrium seeking in nonsmooth fuzzy aggregative games. IEEE Transactions on Control of Network Systems, 11(3): 1262-1274, 2024, Regular Paper. 
+3. **Jingxin Liu**, Xiaofeng Liao, and Jin-Song Dong. A quaternion-valued neural network approach to nonsmooth nonconvex constrained optimization in quaternion domain. IEEE Transactions on Emerging Topics in Computational Intelligence, 8(1): 654-669, 2024, Regular Paper. 
+4. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A neurodynamic approach for nonsmooth optimal power consumption of intelligent and connected vehicles. Neural Networks, 161: 693-707, 2023, Regular Paper. 
+5. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A subgradient-based neurodynamic algorithm to constrained nonsmooth nonconvex interval-valued optimization. Neural Networks, 160: 259-273, 2023, Regular Paper. 
+6. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong. A recurrent neural network approach for constrained distributed fuzzy convex optimization. IEEE Transactions on Neural Networks and Learning Systems, 35(7): 9743-9757, 2024, Regular Paper. 
+7. **Jingxin Liu**, Xiaofeng Liao. A projection neural network to nonsmooth constrained pseudoconvex optimization. IEEE Transactions on Neural Networks and Learning Systems, 34(4): 2001-2015, 2023, Regular Paper.
+8. Zhiqiang Liu, **Jingxin Liu**. Characterizations for union and intersection on non-normal membership functions of type-2 fuzzy sets. International Journal of Approximate Reasoning, 181: 109414, 2025, Regular Paper.
+9. Pengfei Zhang, Qinli Zhang, **Jingxin Liu**, Dexian Wang, Hua Ye, Xiabing Zhang, Tianrui Li. Information fusion and feature selection for multi-source data utilizing Dempster-Shafer evidence theory and K-nearest neighbors. Information Sciences, 718: 122408, 2025, Regular Paper.
 
 
 &emsp; &emsp; **Note**: * indicates the corresponding author. Some papers are Under Review.
@@ -82,7 +79,8 @@ membership functions of type-2 fuzzy sets. International Journal of Approximate 
 
 
 # 🎖 Honors and Awards
-- Best Paper Award, The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing, Nov 2025
+- Outstanding Ph.D. Thesis Award, Chongqing, Dec 2024 (Top 1%). 
+- 
 - First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
 - Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
 - CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
@@ -106,19 +104,31 @@ membership functions of type-2 fuzzy sets. International Journal of Approximate 
 - Co-organizer (with Prof. Morteza Moradi, Prof. Mohammad H. Moradi, Prof. Filipe Alexandre de Sousa Pereira, Prof. Hamed Rezazadegan Tavakoli, Prof. Jérôme Mendes), IEEE World Congress on Computational Intelligence (WCCI) 2026 Workshop, Intelligent Applications for Industrial Systems (IAIS): The Role of AI-Based Methods, Jun. 21-26, Netherlands, 2026.
 - Session Chair, 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025), Oct. 31 - Nov. 2, Xiamen, China, 2025
 
+<!--
 #### Journal Associate/Guest Editors
 - Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026
+-->
 
+#### Area Chair (AC)
+- The 9th International Conference on Big Data and Artificial Intelligence (BDAI 2026)
+- The 2025 International Conference on Computer Science and Artificial Intelligence Applications (CSAIA 2025)
+- The 4th International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025)
+
+<!--
 #### Area Chair (AC)
 - The 40th Annual Conference on Neural Information Processing Systems (NeurIPS'26)
 - The 14th International Conference on Learning Representations (ICLR'26)
 - The 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND'25)
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
+-->
 
+<!--
 #### Senior Program Committee Member (SPC)
 - The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 - The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
+-->
 
+<!--
 #### Program Committee Member (PC)
 - The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
 - The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21)
@@ -143,14 +153,36 @@ membership functions of type-2 fuzzy sets. International Journal of Approximate 
 - The 29th International Conference on Artificial Intelligence and Statistics (AISTATS'26)
 - The 43th International Conference on Machine Learning (ICML'26)
 - The 35th ACM International Conference on Multimedia (ACM MM'26)
+-->
+
+#### Journal Young Editorial Board
+- 海南大学学报(自然科学版中英文)
+- 西安邮电大学学报
+- Pure and New Mathematics in AI
+- AI and Autonomous Systems
+- Journal of Artificial Intelligence & Control Systems
+- Intelligence & Robotics
+- AI Agent
+- Journal of Machine Learning and Information Security
+- Journal of Computational and Cognitive Engineering
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IEEE)
-- IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC, IEEE)
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
+- Information Fusion (INFFUS, Elsevier)
+- Information Science (INS, Elsevier)
+- Pattern Recognition (PR, Elsevier)
+- Neural Networks (NEUNET, Elsevier)
+- Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
+- Knowledge-Based Systems (KNOSYS, Elsevier)
+- Neurocomputing (NEUCOM, Elsevier)
+- Applied Soft Computing (ASOC, Elsevier)
+<!--
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE Transactions on Services Computing (TSC, IEEE)
+- IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
 - IEEE Journal on Selected Areas in Communications (JSAC, IEEE)
 - IEEE Computational Intelligence Magazine (CIM, IEEE)
 - IEEE Wireless Communications Magazine (WCM, IEEE)
@@ -159,17 +191,10 @@ membership functions of type-2 fuzzy sets. International Journal of Approximate 
 - ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
 - Artificial Intelligence (AIJ, Elsevier)
-- Information Fusion (INFFUS, Elsevier)
-- Pattern Recognition (PR, Elsevier)
-- Neural Networks (NEUNET, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
 - European Journal of Operational Research (EJOR, Elsevier)
 - Communications in Nonlinear Science and Numerical Simulation (CNSNS, Elsevier)
-- Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
-- Knowledge-Based Systems (KNOSYS, Elsevier)
-- Neurocomputing (NEUCOM, Elsevier)
-- Applied Soft Computing (ASOC, Elsevier)
 - Computer Science Review (COSREV, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
 - Reliability Engineering & System Safety (JRESS, Elsevier)
@@ -190,6 +215,7 @@ membership functions of type-2 fuzzy sets. International Journal of Approximate 
 - Intelligent Automation and Soft Computing (IASC, TSI Press)
 - CMC-Computers, Materials & Continua (CMC, Tech Science Press)
 - JMIR Medical Informatics (JMI, JMIR)
+-->
 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
