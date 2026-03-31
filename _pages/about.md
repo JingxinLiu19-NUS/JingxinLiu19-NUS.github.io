@@ -32,7 +32,6 @@ His research interests encompass a wide range of areas, focusing on machine lear
 
 Dr. Liu has actively published in prestigious conferences and journals in machine learning, 
 including TNNLS, TSMC, TETCI, TAI, Neural Networks, and Information Sciences. 
-
 For anything about the research, resources and other related issues, 
 please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gmail.com); [jingxin_liu127@cqust.edu.cn](jingxin_liu127@cqust.edu.cn)). 
 
@@ -57,9 +56,12 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - Neurodynamic Optimization
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2024.12*: &nbsp;🎉🎉 刘京昕邀请澳大利亚托伦斯大学[Seyedali Mirjalili教授(IEEE Senior Member, AI Director)](https://research.torrens.edu.au/en/persons/seyedali-mirjalili/)来到重庆交流，建立起学术友情. 
+- *2024.09*: &nbsp;🎉🎉 刘京昕作为主要成员见证重庆智能数学与自主智能研究院（Chongqing Research Institute of Intelligent Mathematics and Autonomous Intelligence, RI-IM·AI*）的揭牌成立.
+- *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表.
+<!--- *2023.09*: &nbsp;🎉🎉 刘京昕入职重庆科技大学. -->
+- *2023.05*: &nbsp;🎉🎉 刘京昕结束了在新加坡国立大学的学习任务，他对林云教授和Jin-Song Dong的指导表示感激. 
 
 # 📝 Selected Publications 
 1. **Jingxin Liu**, Shuwen Liu, Yingxu Wang, Jun Peng, Xiaofeng Liao, Chunhong Du, Hangjun Che, Jin-Song Dong. Generalized-Hukuhara subgradient-based neurodynamic approach to nonsmooth constrained distributed interval-valued optimization. IEEE Transactions on Artificial Intelligence, Available Online, doi: 10.1109/TAI.2026.3675069, Regular Paper.
