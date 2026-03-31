@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jingxin Liu 刘京昕"
-  avatar           : "AcademicAvatar.png" # "images/android-chrome-512x512.png"
+  avatar           : "images/AcademicAvatar.png" # "images/android-chrome-512x512.png"
   bio              : "Assistant Professor, CQUST"
   location         : "Chongqing, China"
   employer         : "RI-IM·AI*, CQUST"
@@ -46,8 +46,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0523.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/170/4637-4.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9008-6850" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
