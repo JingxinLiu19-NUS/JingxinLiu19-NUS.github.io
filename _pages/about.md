@@ -57,9 +57,11 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 刘京昕邀请澳大利亚托伦斯大学[Seyedali Mirjalili教授(IEEE Senior Member, AI Director)](https://research.torrens.edu.au/en/persons/seyedali-mirjalili/)来到重庆交流，建立起学术友情. 
+- *2024.12*: &nbsp;🎉🎉 刘京昕获得重庆市重庆市优秀博士学位论文荣誉. 
+- *2024.12*: &nbsp;🎉🎉 刘京昕邀请澳大利亚托伦斯大学[Seyedali Mirjalili教授(IEEE Senior Member, AI Director)](https://research.torrens.edu.au/en/persons/seyedali-mirjalili/)来到重庆交流，建立起学术友情.
+- *2024.10*: &nbsp;🎉🎉 刘京昕中国交通运输协会科技进步奖（二等奖）. 
 - *2024.09*: &nbsp;🎉🎉 刘京昕作为主要成员见证重庆智能数学与自主智能研究院（Chongqing Research Institute of Intelligent Mathematics and Autonomous Intelligence, RI-IM·AI*）的揭牌成立. 
-- *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表，他积极地为本科生和硕士生推荐就业深造的单位. 
+- *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表，他积极地为本科生和硕士生推荐就业深造单位. 
 - *2024.04*: &nbsp;🎉🎉 刘京昕参加重庆数学学会2024年学术年会并作报告. 
 - *2023.08*: &nbsp;🎉🎉 刘京昕入职重庆科技大学，他欢迎本科生提前参与科研，培养学术热情. 
 - *2023.05*: &nbsp;🎉🎉 刘京昕结束在新加坡国立大学的学习任务，他对林云教授和Jin-Song Dong教授的培养表示非常感激. 
