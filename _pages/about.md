@@ -60,7 +60,7 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 - *2024.12*: &nbsp;🎉🎉 刘京昕获得重庆市重庆市优秀博士学位论文荣誉. 
 - *2024.12*: &nbsp;🎉🎉 刘京昕邀请澳大利亚托伦斯大学[Seyedali Mirjalili教授(IEEE Senior Member, AI Director)](https://research.torrens.edu.au/en/persons/seyedali-mirjalili/)来到重庆交流，建立学术友情.
 - *2024.10*: &nbsp;🎉🎉 刘京昕荣获中国交通运输协会科技进步奖（二等奖）. 
-- *2024.09*: &nbsp;🎉🎉 刘京昕作为主要成员见证重庆智能数学与自主智能研究院（Chongqing Research Institute of Intelligent Mathematics and Autonomous Intelligence, RI-IM·AI*）的揭牌成立. 
+- *2024.09*: &nbsp;🎉🎉 刘京昕作为主要成员见证重庆智能数学与自主智能研究院的揭牌成立. 
 - *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表，他积极地为本科生和硕士生推荐就业深造单位. 
 - *2024.04*: &nbsp;🎉🎉 刘京昕参加重庆数学学会2024年学术年会并作报告. 
 - *2023.08*: &nbsp;🎉🎉 刘京昕入职重庆科技大学，他欢迎本科生提前参与科研，激发学术热情. 
@@ -69,7 +69,7 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 # 📝 Selected Publications 
 1. **Jingxin Liu**, Shuwen Liu, Yingxu Wang, Jun Peng, Xiaofeng Liao, Chunhong Du, Hangjun Che, Jin-Song Dong. Generalized-Hukuhara subgradient-based neurodynamic approach to nonsmooth constrained distributed interval-valued optimization. IEEE Transactions on Artificial Intelligence, Available Online, doi: 10.1109/TAI.2026.3675069, Regular Paper.
 <!--2. Xuanrui Yu, Tianyu Hu, Nima Khodadadi, **Jingxin Liu**, Nanni Antonio. Predictive and experimental assessment of chloride ion permeation in concrete subjected to multi-factorial conditions using the XGBoost algorithm. Journal of Building Engineering, 98: 111041, 2024, Regular Paper. -->
-2. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, and Amin Mansoori. Continuous-time distributed generalized Nash equilibrium seeking in nonsmooth fuzzy aggregative games. IEEE Transactions on Control of Network Systems, 11(3): 1262-1274, 2024, Regular Paper. 
+2. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. Continuous-time distributed generalized Nash equilibrium seeking in nonsmooth fuzzy aggregative games. IEEE Transactions on Control of Network Systems, 11(3): 1262-1274, 2024, Regular Paper. 
 3. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong. A quaternion-valued neural network approach to nonsmooth nonconvex constrained optimization in quaternion domain. IEEE Transactions on Emerging Topics in Computational Intelligence, 8(1): 654-669, 2024, Regular Paper. 
 4. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A neurodynamic approach for nonsmooth optimal power consumption of intelligent and connected vehicles. Neural Networks, 161: 693-707, 2023, Regular Paper. 
 5. **Jingxin Liu**, Xiaofeng Liao, Jin-Song Dong, Amin Mansoori. A subgradient-based neurodynamic algorithm to constrained nonsmooth nonconvex interval-valued optimization. Neural Networks, 160: 259-273, 2023, Regular Paper. 
