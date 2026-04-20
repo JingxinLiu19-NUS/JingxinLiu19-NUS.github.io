@@ -23,15 +23,15 @@ Chongqing Research Institute of Intelligent Mathematics and Autonomous AI (RI-IM
 Chongqing University of Science and Technology (CQUST). 
 Before joining CQUST, 
 he received a Ph.D. degree from the School of Electronic and Information Engineering, Southwest University, 
-supervised by Prof. [Xiaofeng Liao (IEEE/AIAA Fellow)](https://cs.cqu.edu.cn/info/1274/3457.htm) 
+supervised by Prof. [Xiaofeng Liao (IEEE/AAIA/AIIA Fellow)](https://cs.cqu.edu.cn/info/1274/3457.htm) 
 and co-supervised by Prof. [Huaqing Li (IEEE Senior Member, IET Fellow)](https://ceie.swu.edu.cn/info/1114/3986.htm). 
-He was a joint training Ph.D. student with the School of Computing, National University of Singapore, 
+He was a joint training Ph.D. student with the School of Computing, National University of Singapore (NUS), 
 co-supervised by Prof. [Jin-Song Dong (Engineers Australia Fellow)](https://www.comp.nus.edu.sg/~dongjs/). 
 He was the recipient of the Outstanding Ph.D. Thesis Award, Chongqing. 
-His research interests encompass a wide range of areas, focusing on machine learning, neural networks, neurodynamic optimization, and game. 
+His research interests encompass a wide range of areas, focusing on machine learning, neural networks, neurodynamic optimization, and information fusion. 
 
 Dr. Liu has actively published in prestigious conferences and journals in machine learning, 
-including TNNLS, TSMC, TETCI, TAI, Neural Networks, and Information Sciences. 
+including TNNLS, TSMC, TETCI, TAI, TCNS, Neural Networks, and Information Sciences. 
 For anything about the research, resources and other related issues, 
 please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gmail.com); [jingxin_liu127@cqust.edu.cn](jingxin_liu127@cqust.edu.cn)). 
 
@@ -57,9 +57,9 @@ please feel free to contact him via **Email** ([liujx217@gmail.com](liujx217@gma
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 刘京昕获得重庆市重庆市优秀博士学位论文荣誉. 
+- *2024.12*: &nbsp;🎉🎉 刘京昕获得重庆市优秀博士学位论文荣誉. 
 - *2024.12*: &nbsp;🎉🎉 刘京昕邀请澳大利亚托伦斯大学[Seyedali Mirjalili教授(IEEE Senior Member, AI Director)](https://research.torrens.edu.au/en/persons/seyedali-mirjalili/)来到重庆交流，建立学术友情.
-- *2024.10*: &nbsp;🎉🎉 刘京昕荣获中国交通运输协会科技进步奖（二等奖）. 
+- *2024.10*: &nbsp;🎉🎉 刘京昕获得中国交通运输协会科技进步奖（二等奖）. 
 - *2024.09*: &nbsp;🎉🎉 刘京昕作为主要成员见证重庆智能数学与自主智能研究院的揭牌成立. 
 - *2024.09*: &nbsp;🎉🎉 刘京昕当选重庆市科技青年联合会代表，他积极地为本科生和硕士生推荐就业深造单位. 
 - *2024.04*: &nbsp;🎉🎉 刘京昕参加重庆数学学会2024年学术年会并作报告. 
